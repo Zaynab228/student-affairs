@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Students_Affaires.Models.Admin>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Table of Admins.....</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-info"> Add New Admin </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AdminName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageAdmin)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdminName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.ImageAdmin)*@
+                   <img src="~/Img/@item.ImageAdmin" alt="Std_Image_Here" style="border-radius:50%; width:70px;height:70px">
+
+
+            </td>
+ 
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.AdminID" class="btn btn-success">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.AdminID" class="btn btn-info">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.AdminID" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

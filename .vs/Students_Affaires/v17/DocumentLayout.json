@@ -1,0 +1,1240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\engineers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\engineers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\doctor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\doctor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\control\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\control\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\grade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\grade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\engineers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\engineers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\control\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\control\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\control\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\control\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\engineers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\engineers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\control\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\control\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\engineers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\engineers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\engineerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\engineerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\controlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\controlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\migrations\\20240617115108_db-student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\migrations\\20240617115108_db-student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\affaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\affaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\affair\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\affair\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\affair\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\affair\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\affair\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\affair\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\control\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\control\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\affair\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\affair\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\affair\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\affair\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\affair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\affair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\migrations\\20240611130529_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\migrations\\20240611130529_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\storedoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\storedoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\storecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\storecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\storestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\storestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\storeengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\storeengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\givecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\givecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\teachesstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\teachesstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\teachesstudent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\teachesstudent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\responsible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\responsible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\give.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\give.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113330_DB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113115_DB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\migrations\\20240502113603_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\migrations\\20240502113603_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\students_affaires\\students_affaires\\migrations\\20240611123135_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14CEEE1-BA8E-4598-BC5B-0F083D3D7BF2}|Students_Affaires\\Students_Affaires.csproj|solutionrelative:students_affaires\\migrations\\20240611123135_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 139,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Course\\Details.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Course\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:16:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:16:25.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Grade\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Grade\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:16:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Engineers\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Engineers\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:15:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Doctor\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Doctor\\Edit.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:15:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:15:30.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Grade\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Grade\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:13:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:13:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Control\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Control\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:24:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Engineers\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Engineers\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:13:20.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Doctor\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Doctor\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:13:09.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:12:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Course\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:58:12.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Control\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Control\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:20:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:08:44.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Grade\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Grade\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:08:21.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Engineers\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Engineers\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:07:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Control\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Control\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:17:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:07:12.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:07:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:05:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Control\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Control\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:27:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Grade\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Grade\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Grade\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:58:34.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:58:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Engineers\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Engineers\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Engineers\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:58:27.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAUwE8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:02:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EngineersController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\EngineersController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\EngineersController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\EngineersController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\EngineersController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:09:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\GradeController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\GradeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:31:25.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAwwIsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:07:09.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAGkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:05:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ControlController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\ControlController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\ControlController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\ControlController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\ControlController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAgwFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:11:50.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240617115108_DB-Student.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240617115108_DB-Student.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Migrations\\20240617115108_DB-Student.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240617115108_DB-Student.cs",
+              "RelativeToolTip": "Students_Affaires\\Migrations\\20240617115108_DB-Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:51:09.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AffairController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\AffairController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\AffairController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\AffairController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\AffairController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA9wI0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:59:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:47:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Student.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Student.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:48:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Admin.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Admin.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:46:23.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T17:32:00.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Affair\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Affair\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:13:46.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Affair\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Affair\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:12:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T06:59:48.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Affair\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Affair\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:15:19.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:20:51.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Details.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Control\\Details.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Control\\Details.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Control\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:18:59.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Details.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Affair\\Details.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Details.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Affair\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:18:35.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Affair\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Affair\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Affair\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:17:59.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:37:48.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:20:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Affair.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Affair.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Affair.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Affair.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Affair.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:46:40.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Students_Affaires\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Students_Affaires\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:37:20.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Students_Affaires\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:27:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240611130529_DB3.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240611130529_DB3.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Migrations\\20240611130529_DB3.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240611130529_DB3.cs",
+              "RelativeToolTip": "Students_Affaires\\Migrations\\20240611130529_DB3.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:05:30.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Control.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Control.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Control.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Control.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Control.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:40:36.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StoreCourse.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreCourse.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\StoreCourse.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreCourse.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\StoreCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:14:02.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StoreDoctor.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreDoctor.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\StoreDoctor.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreDoctor.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\StoreDoctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:58:35.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StoreEngineer.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreEngineer.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\StoreEngineer.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreEngineer.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\StoreEngineer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:59:56.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240611123135_DB2.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240611123135_DB2.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Migrations\\20240611123135_DB2.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240611123135_DB2.cs",
+              "RelativeToolTip": "Students_Affaires\\Migrations\\20240611123135_DB2.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:31:37.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StoreStudent.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreStudent.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\StoreStudent.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\StoreStudent.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\StoreStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:48:39.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:48:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Students_Affaires\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:42:04.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GiveCourse.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\GiveCourse.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\GiveCourse.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\GiveCourse.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\GiveCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:46:18.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Doctor.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Doctor.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:47:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Engineer.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Engineer.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Engineer.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Engineer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:47:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Course.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Course.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:47:01.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TeachesStudent.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\TeachesStudent.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\TeachesStudent.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\TeachesStudent.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\TeachesStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:48:44.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TeachesStudent2.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\TeachesStudent2.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\TeachesStudent2.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\TeachesStudent2.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\TeachesStudent2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:17:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Responsible.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Responsible.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Responsible.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Responsible.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Responsible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:48:12.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Give.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Give.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Give.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Give.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Give.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:47:44.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Models\\Grade.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Models\\Grade.cs",
+              "RelativeToolTip": "Students_Affaires\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:50:26.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240502113330_DB1.cs",
+              "DocumentMoniker": "D:\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113330_DB1.cs",
+              "RelativeDocumentMoniker": "..\\..\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113330_DB1.cs",
+              "ToolTip": "D:\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113330_DB1.cs",
+              "RelativeToolTip": "..\\..\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113330_DB1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:33:30.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240502113115_DB1.cs",
+              "DocumentMoniker": "D:\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113115_DB1.cs",
+              "RelativeDocumentMoniker": "..\\..\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113115_DB1.cs",
+              "ToolTip": "D:\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113115_DB1.cs",
+              "RelativeToolTip": "..\\..\\project\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113115_DB1.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:31:16.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Program.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Program.cs",
+              "RelativeToolTip": "Students_Affaires\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:30:48.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\appsettings.json",
+              "RelativeDocumentMoniker": "Students_Affaires\\appsettings.json",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\appsettings.json",
+              "RelativeToolTip": "Students_Affaires\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T10:31:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240502113603_DB1.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113603_DB1.cs",
+              "RelativeDocumentMoniker": "Students_Affaires\\Migrations\\20240502113603_DB1.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\Migrations\\20240502113603_DB1.cs",
+              "RelativeToolTip": "Students_Affaires\\Migrations\\20240502113603_DB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:36:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Students_Affaires\\appsettings.Development.json",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062A\u062E\u0631\u062C\\Students_Affaires\\Students_Affaires\\appsettings.Development.json",
+              "RelativeToolTip": "Students_Affaires\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T11:25:34.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
